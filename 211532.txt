@@ -5,3 +5,17 @@
     git push
 18. git checkout master
     git pull
+
+19. git checkout 2-find-all-completed-tasks
+    git add .
+    git commit -m "Added getCompletedTasks function"
+    git push
+    git checkout master
+    git pull
+v
+    git checkout 3-list-tasks-sorted-by-name
+    git add .
+    git commit -m "Added sortTasksByName function"
+    git push
+    git checkout master
+    git pull

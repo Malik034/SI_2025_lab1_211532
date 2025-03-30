@@ -1,0 +1,22 @@
+*   1e300cc Merge branch '3-list-tasks-sorted-by-name'
+|\  
+| * 34146aa Added sortTasksByName function
+* |   467a6dc Merge branch 'master' of https://github.com/Malik034/-SI_2025_lab1_211532
+|\ \  
+| * \   122234c Merge pull request #11 from Malik034/2-find-all-completed-tasks
+| |\ \  
+| | * | a272f69 Added getCompeletedTasks function
+| | |/  
+* | | ca892bd Removed a letter from txt
+* | | ac18c18 Added to txt
+|/ /  
+* | 1a74f94 Added to txt
+* |   80e8713 Merge pull request #10 from Malik034/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * d722132 Added commands to txt
+| * ff234ec Added removeTask function
+|/  
+* 9ab1d65 Add starter code.
+* d82db9c Initial commit

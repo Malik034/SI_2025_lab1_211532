@@ -23,3 +23,13 @@
 
   Во чекорите 20 и 22 каде се употребува спојување на гранки немаше никаков конфликти при извршуванје.
   која стратегија била употребена за да се изврши спојувањето - git merge 3-list-tasks-sorted-by-name
+
+
+27. fork: https://github.com/stefanandonov/SI_2025_lab1_151020
+28. git clone https://github.com/Malik034/SI_2025_lab1_151020
+29. git add .
+    git commit -m "Add file"
+    git push
+
+30. git checkout master
+31. pull requests - contribute - create pull request

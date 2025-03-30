@@ -12,7 +12,7 @@
     git push
     git checkout master
     git pull
-v
+
     git checkout 3-list-tasks-sorted-by-name
     git add .
     git commit -m "Added sortTasksByName function"
